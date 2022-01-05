@@ -1,0 +1,67 @@
+.contenido{
+    width: 950px;
+    background-color: silver;
+    margin: 0px auto;
+    background-image: radial-gradient(red, yellow);
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+}
+.contenido1{
+    width: 900px;
+    height: 200px;
+    margin-left: 25px;
+    background-image: radial-gradient(rgb(238, 94, 94), rgb(245, 245, 80));
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.contenido1{
+    width: 900px;
+    height: 200px;
+    margin-left: 25px;
+    background-image: radial-gradient(rgb(238, 94, 94), rgb(245, 245, 80));
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.contenido1{
+    width: 900px;
+    height: 200px;
+    margin: 25px;
+    background-image: radial-gradient(rgb(238, 94, 94), rgb(245, 245, 80));
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.contenido2{
+    width: 900px;
+    height: 200px;
+    margin: 25px;
+    background-image: radial-gradient(rgb(184, 84, 84), rgb(177, 177, 74));
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.contenido3{
+    width: 900px;
+    height: 200px;
+    margin: 25px;
+    background-image: radial-gradient(rgb(86, 221, 116), rgb(195, 224, 26));
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+img{
+    width: 180px;
+    height: 180px;
+}
+footer{
+    padding-left: 400px;
+    padding-bottom: 10px ;
+    
+}
